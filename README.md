@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,git,docker,babel,threejs,ts,vim,vscode,webpack,)](https://skillicons.dev)
+
 <!--
 **mfoonirlee/mfoonirlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
